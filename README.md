@@ -3,6 +3,7 @@
 This is a project optimizing four machine learning models and mapping rules from extracted customer claim data, providing business level perception with data-informed creative consultation.
 
 This report gives actionable recommendations from advanced and tuned machine learning tools:
+
 [Which machine learning model to use in auto insurance field and Why?](./Optmization_results_autoInsu.pdf)
 
 Here gives the **full modeling cycle step by step**:
